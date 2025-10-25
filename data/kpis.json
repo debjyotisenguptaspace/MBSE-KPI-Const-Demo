@@ -1,0 +1,85 @@
+[
+  {
+    "group": "Technology",
+    "kpis": [
+      "Innovation Velocity",
+      "Patent Activity",
+      "Tech Maturity Index"
+    ]
+  },
+  {
+    "group": "Manufacturing",
+    "kpis": [
+      "Production Throughput",
+      "Yield Rate",
+      "Cycle Time Reduction"
+    ]
+  },
+  {
+    "group": "System",
+    "kpis": [
+      "System Integration Rate",
+      "Modularity Score",
+      "System Downtime"
+    ]
+  },
+  {
+    "group": "People",
+    "kpis": [
+      "Employee Productivity",
+      "Training Completion",
+      "Team Collaboration Index"
+    ]
+  },
+  {
+    "group": "Market",
+    "kpis": [
+      "Market Share",
+      "Customer Acquisition Cost",
+      "Brand Awareness Score",
+      "Market Volatility Index",
+      "Competitive Density",
+      "Price Sensitivity Index"
+    ]
+  },
+  {
+    "group": "Operations",
+    "kpis": [
+      "Operational Efficiency",
+      "Logistics Speed",
+      "Supply Chain Stability"
+    ]
+  },
+  {
+    "group": "Customer",
+    "kpis": [
+      "Customer Satisfaction",
+      "Net Promoter Score",
+      "Churn Rate"
+    ]
+  },
+  {
+    "group": "Financial",
+    "kpis": [
+      "Return on Investment",
+      "Cost Efficiency",
+      "Revenue Growth Rate"
+    ]
+  },
+  {
+    "group": "Readiness",
+    "kpis": [
+      "TRL Progression",
+      "CRL Milestones",
+      "MRL Compliance"
+    ]
+  },
+  {
+    "group": "Strategic",
+    "kpis": [
+      "Goal Alignment Index",
+      "Portfolio Synergy",
+      "Decision Agility"
+    ]
+  }
+]

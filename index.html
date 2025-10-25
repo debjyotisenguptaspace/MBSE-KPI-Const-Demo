@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Way of the Phoenix</title>
+  <link rel="stylesheet" href="./style/main.css" />
+  <style>
+    body {
+      margin: 0;
+      background-color: rgba(255, 255, 255, 1);
+      color: black;
+      font-family: 'Segoe UI', sans-serif;
+    }
+    section {
+      padding: 1rem 1rem;
+    }
+    canvas, svg {
+      display: block;
+      margin: auto;
+    }
+    #calculator-result {
+      margin-top: 0rem;
+      font-size: 1.2rem;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Section 1: KPI Constellation-->
+  <section id="kpi-constellation">
+    <!--h1>KPI Constellation</h1-->
+  </section>
+
+  <!-- Section 2: Readiness Arrows>
+  <section id="readiness-arrows">
+    <h1>Readiness Levels</h1>
+    <div id="arrows-container"></div>
+  </section>
+
+  <!--Section 3: Valley of Death Plot>
+  <section id="valley-3d">
+    <h1>Valley of Death</h1>
+    <div id="valley-3d-container" style="width: 100%; height: 500px;"></div>
+
+    <!-- Calculator>
+    <form id="calculator-form">
+      <input type="number" id="input-x" placeholder="X value" required />
+      <input type="number" id="input-y" placeholder="Y value" required />
+      <button type="submit">Calculate</button>
+    </form>
+    <div id="calculator-result"></div>
+  </section-->
+
+  <!-- Module Scripts -->
+  <script type="module" src="./scripts/utils.js"></script>
+  <script type="module" src="./scripts/kpi-constellation.js"></script>
+  <!--script type="module" src="./scripts/readiness-arrows.js"></script>
+  <script type="module" src="./scripts/valley-3d.js"></script-->
+</body>
+</html>
